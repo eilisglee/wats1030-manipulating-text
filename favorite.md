@@ -1,0 +1,1 @@
+My favorite text editor so far is Vi. It seems to be a really powerful tool, but without the steep learning curve that Emacs seems to have. Nano was the easiest to work with but didn't have as many options as Vi. I think it'd be worth learning Emacs though. 
